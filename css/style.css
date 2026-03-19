@@ -239,12 +239,14 @@ footer a:hover {
 }
 
 .pub-btn-project {
-  background: #0969da;
-  color: #fff;
+  background: transparent;
+  color: #0969da;
+  border: 2px solid #0969da;
 }
 
 .pub-btn-project:hover {
-  background: #0550ae;
+  background: #0969da;
+  color: #fff;
 }
 
 .pub-btn-arxiv {
