@@ -198,6 +198,40 @@ footer a:hover {
   font-style: italic;
 }
 
+.pub-item {
+  margin-bottom: 25px;
+}
+
+.pub-title {
+  font-weight: bold;
+  font-size: 1.05em;
+  margin-bottom: 5px;
+}
+
+.pub-authors {
+  color: #555;
+  font-size: 0.98em;
+  margin-bottom: 4px;
+}
+
+.pub-venue {
+  color: #777;
+  font-size: 0.95em;
+  font-style: italic;
+  margin-bottom: 6px;
+}
+
+.pub-links a {
+  color: #007ACC;
+  text-decoration: none;
+  margin-right: 10px;
+  font-size: 0.95em;
+}
+
+.pub-links a:hover {
+  text-decoration: underline;
+}
+
 .traits-container {
   display: flex;
   gap: 40px;
