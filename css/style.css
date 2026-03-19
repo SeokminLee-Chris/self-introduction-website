@@ -238,6 +238,15 @@ footer a:hover {
   transition: background 0.2s;
 }
 
+.pub-btn-project {
+  background: #0969da;
+  color: #fff;
+}
+
+.pub-btn-project:hover {
+  background: #0550ae;
+}
+
 .pub-btn-arxiv {
   background: #b31b1b;
   color: #fff;
