@@ -198,47 +198,28 @@ footer a:hover {
   font-style: italic;
 }
 
-.pub-card {
-  background: #f9f9f9;
-  border-left: 4px solid #007ACC;
-  border-radius: 8px;
-  padding: 20px 24px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07);
-  transition: box-shadow 0.2s;
-  margin-bottom: 25px;
-}
-
-.pub-card:hover {
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.13);
-}
-
-.pub-meta {
-  margin-bottom: 10px;
-}
-
-.pub-badge {
-  display: inline-block;
-  background: #007ACC;
-  color: #fff;
-  font-size: 0.75em;
-  font-weight: bold;
-  padding: 3px 11px;
-  border-radius: 20px;
-  letter-spacing: 0.5px;
+.pub-item {
+  margin-bottom: 30px;
 }
 
 .pub-title {
-  font-weight: bold;
-  font-size: 1.08em;
+  font-size: 1.1em;
+  margin-bottom: 5px;
   line-height: 1.5;
-  color: #111;
-  margin-bottom: 8px;
 }
 
 .pub-authors {
-  color: #555;
+  color: #333;
+  font-size: 1.05em;
+  margin-bottom: 6px;
+}
+
+.pub-venue {
+  color: #666;
   font-size: 0.95em;
-  margin-bottom: 14px;
+  font-style: italic;
+  line-height: 1.5;
+  margin-bottom: 12px;
 }
 
 .pub-links {
